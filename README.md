@@ -1,34 +1,42 @@
 # 🎓 Smart College Fee Management System
 
-A web-based **College Fee Management System** developed using **Python, Flask, MongoDB, HTML, CSS, and JavaScript**. The application helps colleges manage student fee records, payments, and balance calculations efficiently.
+A web-based Smart College Fee Management System developed using **Python**, **Flask**, **MongoDB**, **HTML**, **CSS**, and **JavaScript**. This application helps colleges manage student fee records, payments, and balance calculations efficiently.
 
 ## 🚀 Live Demo
 
-🌐 **https://syam-fee-management-production.up.railway.app/**
+👉 https://syam-fee-management-production.up.railway.app/
+
+### 🧪 Demo Student Portal
+
+Use the following sample Roll Number to access the Student Portal:
+
+**Roll Number:** `8978518393K`
+
+> If the demo data is unavailable, use any valid roll number available in your database.
 
 ---
 
 ## ✨ Features
 
-- 👨‍🎓 Student Registration
-- 💰 Add Student Fee Details
-- 💳 Record Fee Payments
-- 📊 Automatic Balance Fee Calculation
-- 📅 Payment History
-- ✏️ Edit Student Information
-- 🗑️ Delete Student Records
-- 📈 Dashboard with Fee Statistics
-- 💾 MongoDB Database Integration
-- 📱 Responsive User Interface
+- Student Registration
+- Student Portal
+- Add Student Fee Details
+- Record Fee Payments
+- Automatic Balance Fee Calculation
+- Payment History
+- Edit Student Details
+- Delete Student Records
+- Dashboard with Fee Statistics
+- MongoDB Database Integration
+- Responsive User Interface
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
 ### Backend
-- Python 3
+- Python
 - Flask
-- PyMongo
 
 ### Frontend
 - HTML5
@@ -54,15 +62,7 @@ smart-college-fee-management-system/
 ├── Procfile
 ├── runtime.txt
 ├── static/
-│   ├── css/
-│   ├── js/
-│   └── images/
 ├── templates/
-│   ├── index.html
-│   ├── add_student.html
-│   ├── edit_student.html
-│   └── dashboard.html
-├── database/
 ├── README.md
 └── .gitignore
 ```
@@ -71,45 +71,45 @@ smart-college-fee-management-system/
 
 ## ⚙️ Installation
 
-### Clone the repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/smart-college-fee-management-system.git
 ```
 
-### Navigate to the project
+### Navigate to the Project
 
 ```bash
 cd smart-college-fee-management-system
 ```
 
-### Create a virtual environment
+### Create a Virtual Environment
 
 ```bash
 python -m venv venv
 ```
 
-### Activate the virtual environment
+### Activate the Virtual Environment
 
-#### Windows
+**Windows**
 
 ```bash
 venv\Scripts\activate
 ```
 
-#### Linux/macOS
+**Linux / macOS**
 
 ```bash
 source venv/bin/activate
 ```
 
-### Install dependencies
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Run the application
+### Run the Application
 
 ```bash
 python app.py
@@ -123,19 +123,9 @@ http://127.0.0.1:5000
 
 ---
 
-## 🌐 Live Application
+## 🌐 Live Website
 
 https://syam-fee-management-production.up.railway.app/
-
----
-
-## 📸 Screenshots
-
-Add screenshots of:
-- Dashboard
-- Student List
-- Add Student
-- Payment Page
 
 ---
 
@@ -145,16 +135,15 @@ Add screenshots of:
 - Admin Dashboard
 - PDF Fee Receipts
 - Excel Export
-- Search & Filter
 - Email Notifications
 - Payment Gateway Integration
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
 **Pisini Syamala Rao**
-
+##💻 
 GitHub: https://github.com/syamuq8
 
 ---
